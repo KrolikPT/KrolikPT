@@ -8,13 +8,13 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Krolik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Krolik-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Krolik-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Krolik-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Krolik-PHP" height="35" width="40" src="https://icongr.am/devicon/php-original.svg?size=148&color=currentColor">
+  <img align="center" alt="Krolik-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Krolik-Bash" height="35" width="35" src="https://cdn.discordapp.com/attachments/908114317071761449/937443013867737088/pngegg.png">
+  <img align="center" alt="Krolik-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Krolik-MySQL" height="35" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor">
   <img align="center" alt="Krolik-Postgres" height="35" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=148&color=currentColor">
   <img align="center" alt="Krolik-Wordpress" height="35" width="40" src="https://icongr.am/devicon/wordpress-original.svg?size=148&color=currentColor">
-   <img align="center" alt="Krolik-Bash" height="35" width="35" src="https://cdn.discordapp.com/attachments/908114317071761449/937443013867737088/pngegg.png">
   
   <img align="right" alt="Krolik-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/908114317071761449/937442986785144924/Krolik_Face.png">
   
