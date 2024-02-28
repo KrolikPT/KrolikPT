@@ -13,10 +13,7 @@
   <img align="center" alt="Krolik-PHP" height="35" width="40" src="https://icongr.am/devicon/php-original.svg?size=148&color=currentColor">
   <img align="center" alt="Krolik-MySQL" height="35" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor">
   <img align="center" alt="Krolik-Postgres" height="35" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=148&color=currentColor">
-  <img align="center" alt="Krolik-Wordpress" height="35" width="40" src="https://icongr.am/devicon/wordpress-original.svg?size=148&color=currentColor">
-  
-  <img align="right" alt="Krolik-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/908114317071761449/937442986785144924/Krolik_Face.png">
-  
+  <img align="center" alt="Krolik-Wordpress" height="35" width="40" src="https://icongr.am/devicon/wordpress-original.svg?size=148&color=currentColor"> 
 </div>
   
   ##
